@@ -1,0 +1,8 @@
+# *.pkl
+.env
+.venv
+default_requirements.txt
+.DS_store
+Logs.json
+hugging.py
+Archive
