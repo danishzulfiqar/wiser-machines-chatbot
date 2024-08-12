@@ -26,4 +26,4 @@ RUN python -m pip install --upgrade streamlit-extras
 EXPOSE 6969
 
 # Run app.py when the container launches
-CMD streamlit run app.py
+CMD streamlit run app.py --server.port=6969
