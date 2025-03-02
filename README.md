@@ -2,7 +2,7 @@
 
 ### Technical Details
 
-This chatbot is based upon priciple concept of vectors embeddings. Embeddings enables us to get desired info from trained LLM's and SLM's based upon our specific dataset.
+This chatbot is based upon principal concept of vectors embeddings. Embeddings enables us to get desired info from trained LLM's and SLM's based upon our specific dataset.
 
 ### Techstack
 
