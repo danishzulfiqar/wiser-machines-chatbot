@@ -22,7 +22,7 @@ git clone https://github.com/danishzulfiqar/wiser-machines-chatbot.git
 
 2. Change directory
 ```bash
-cd Wiser-Chatbot
+cd wiser-machines-chatbot
 ```
 
 3. Make.env from .env.example
