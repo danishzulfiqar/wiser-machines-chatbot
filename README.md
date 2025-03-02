@@ -2,7 +2,7 @@
 
 ### Technical Details
 
-This proect is based upon priciple concept of vectors embeddings. Embeddings enables us to get desired info from trained LLM's and SLM's based upon our specific dataset.
+This chatbot is based upon priciple concept of vectors embeddings. Embeddings enables us to get desired info from trained LLM's and SLM's based upon our specific dataset.
 
 ### Techstack
 
@@ -17,7 +17,7 @@ This proect is based upon priciple concept of vectors embeddings. Embeddings ena
 
 1. Clone the repository
 ```bash
-git clone https://github.com/danishzulfiqar/Wiser-Chatbot.git
+git clone https://github.com/danishzulfiqar/wiser-machines-chatbot.git
 ```
 
 2. Change directory
